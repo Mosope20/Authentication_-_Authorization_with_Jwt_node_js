@@ -85,7 +85,7 @@ npm start
 ---
 
 ## 🌟 Contribution Guidelines
-We ❤️ contributions! If you'd like to contribute:
+I ❤️ contributions! If you'd like to contribute:
 
 - Fork the repository.
 - Create a new branch for your feature or bug fix.
