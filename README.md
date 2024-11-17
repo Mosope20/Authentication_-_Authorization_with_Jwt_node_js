@@ -27,6 +27,9 @@ Authentication_-_Authorization_with_Jwt_node_js/
 ├── package-lock.json
 ├── package.json
 ```
+
+---
+
 ## 🛠️ Getting Started
 
 Follow these steps to set up and run the project locally:
@@ -63,5 +66,42 @@ start the server with:
 ```bash
 npm start
 ```
+### 🎉 The application should now be running, and you can interact with its endpoints as defined in the routes directory.
+
+---
+
+## 📡 API Endpoints
+- POST /signup: Registers a new user.
+- POST /login: Authenticates a user and returns a JWT.
+- GET /users,/update,/logout,/delete: Protected routes that requires a valid JWT.
+
+---
+
+## 📦 Dependencies
+- express: Web framework for Node.js.
+- jsonwebtoken: Library to sign and verify JWTs.
+- dotenv: Loads environment variables from a .env file.
+
+---
+
+## 🌟 Contribution Guidelines
+We ❤️ contributions! If you'd like to contribute:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Submit a pull request with a clear description of your changes.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License. Feel free to use it as you like!
+
+---
+
+## ✍️ Author
+Mosope20
+GitHub: [Mosope20](github.com/Mosope20/)
+
+
 
 
